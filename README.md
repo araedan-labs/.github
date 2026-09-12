@@ -1,3 +1,3 @@
 # Araedan Labs
 
-Welcome Araedan Labs!
+Welcome to Araedan Labs!
